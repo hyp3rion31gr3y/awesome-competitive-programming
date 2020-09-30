@@ -20,7 +20,7 @@ Share the list with your classmates, your friends and everyone :)
 > I really hope that more people can benefit from this list :)
 
 
-## Table of Contents
+# Table of Contents
 
 * [List of Lists](#list-of-lists)
 * [Syllabuses](#syllabuses)
